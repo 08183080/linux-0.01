@@ -11,4 +11,3 @@ linux-0.01
     - [ ] 千万不要像读书一样去读代码, 因为它没有开始也没有终结
     - [ ] 参与社区: https://kernelnewbies.org/
     - [ ] Linux0.01在目前的硬件上是不怎么可以跑的, https://superuser.com/questions/306218/how-to-run-linux-0-01
-    - [ ] 
