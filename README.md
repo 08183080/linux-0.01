@@ -11,3 +11,6 @@ linux-0.01
     - [ ] 千万不要像读书一样去读代码, 因为它没有开始也没有终结
     - [ ] 参与社区: https://kernelnewbies.org/
     - [ ] Linux0.01在目前的硬件上是不怎么可以跑的, https://superuser.com/questions/306218/how-to-run-linux-0-01
+- [x] 2/15, 浏览ing, 去寻找更好地契合
+    - [ ] 去看Linux官网, https://www.linux.com/, 往下滑是github经典九方格图标
+    - [ ] 发现文章https://blogs.oracle.com/linux/post/pipe-and-splice, IPC进程间通信的方式pipe实现
