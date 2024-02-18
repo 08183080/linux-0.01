@@ -14,3 +14,4 @@ linux-0.01
 - [x] 2/15, 浏览ing, 去寻找更好地契合
     - [ ] 去看Linux官网, https://www.linux.com/, 往下滑是github经典九方格图标
     - [ ] 发现文章https://blogs.oracle.com/linux/post/pipe-and-splice, IPC进程间通信的方式pipe实现
+- [x] 2/18, Linux是Unix的转世神童, 现在无处不在. 2024是虚拟时代, 人们不断不断沉浸现实! 
